@@ -1,0 +1,12 @@
+Flask
+vlc
+requests
+comtypes
+langchain_core 
+langchain_community 
+langchain_groq 
+SpeechRecognition 
+pyttsx3 
+pyaudio 
+yt-dlp 
+python-vlc
