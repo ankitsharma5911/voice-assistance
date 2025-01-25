@@ -1,5 +1,5 @@
 Flask
-vlc
+# python-vlc
 requests
 comtypes
 langchain_core 
@@ -7,6 +7,10 @@ langchain_community
 langchain_groq 
 SpeechRecognition 
 pyttsx3 
-pyaudio 
 yt-dlp 
 python-vlc
+PyAudio
+
+# for linux install the following
+# sudo apt install espeak-ng
+# sudo apt-get install portaudio19-dev
