@@ -10,7 +10,7 @@ pyttsx3
 yt-dlp 
 python-vlc
 PyAudio
-
+gunicorn
 # for linux install the following
 # sudo apt install espeak-ng
 # sudo apt-get install portaudio19-dev
